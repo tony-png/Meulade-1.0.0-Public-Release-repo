@@ -1,3 +1,5 @@
+![RVSQ Appointment Finder](images/logo_medium.png)
+
 # RVSQ Appointment Finder / Recherche de rendez-vous RVSQ
 
 [Français](#français) | [English](#english)
@@ -21,6 +23,10 @@ Face à l'incompétence flagrante du gouvernement et son système de santé dysf
 - Lancer l'application
 - Entrer vos informations d'assurance maladie
 - Cliquer sur Démarrer et laissez le logiciel chercher pour vous
+
+### Démo
+
+![Demo](images/demo.gif)
 
 ### Prérequis (si exécution depuis le code source)
 
@@ -59,5 +65,3 @@ Faced with the government's blatant incompetence and dysfunctional healthcare sy
 - Winsound (Windows only)
 
 Envoyez moi un message si vous avez des suggestions ou des problèmes.
-
-
