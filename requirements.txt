@@ -1,0 +1,2 @@
+playwright==1.41.1
+pyinstaller==6.3.0

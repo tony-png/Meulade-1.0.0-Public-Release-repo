@@ -1,0 +1,33 @@
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore virtual environment directories
+venv/
+env/
+.venv/
+.env/
+
+# Ignore Playwright specific files and folders
+playwright-report/
+playwright/.cache/
+
+# Ignore log files
+*.log
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Personal information
+#config.json
+
+# Ignore build and distribution files
+build/
+dist/
+*.spec
+# Test screenshots and error reports
+screenshots/
+error_screenshots/
+config.json
