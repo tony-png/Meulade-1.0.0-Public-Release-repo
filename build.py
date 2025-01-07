@@ -21,6 +21,10 @@ playwright_dir = os.path.dirname(playwright.__file__)
 # Create the command for PyInstaller
 command = [
     'meulade.py',
+    'gui.py',
+    'browser.py',
+    'languages.py',
+    'logger.py',
     '--onefile',
     '--name=Meulade',
     '--clean',
